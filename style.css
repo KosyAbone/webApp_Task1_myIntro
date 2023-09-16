@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+}
+
+#section{
+    margin-top: 2em;
+    width:50vw;
+    text-align: justify;
+    font-size: 18px;
+}
+
+#myPic{
+    width: 300px;
+    
+}
