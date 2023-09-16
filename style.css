@@ -1,4 +1,6 @@
 body{
+    margin-top: 3em;
+    margin-bottom: 4em;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -14,6 +16,5 @@ body{
 }
 
 #myPic{
-    width: 300px;
-    
+    width: 300px;  
 }
